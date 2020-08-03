@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+  <g id="slider" transform="translate(-137.913 -749.927)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="8" height="8" transform="translate(137.913 749.927)" fill="none"/>
+    <g id="_109472" data-name=" 109472" transform="translate(138.58 751.844)">
+      <g id="Group_9" data-name="Group 9" transform="translate(0 0)">
+        <path id="Path_18" data-name="Path 18" d="M140.913,758.786v3.7a.234.234,0,0,0,.234.234h6.2a.233.233,0,0,0,.233-.234v-3.7a.233.233,0,0,0-.233-.234h-6.2A.234.234,0,0,0,140.913,758.786Zm3.167,3.433h-2.23a.233.233,0,0,1-.194-.363l.9-1.346a.234.234,0,0,1,.389,0l.362.544a.233.233,0,0,0,.375.018l1.053-1.3a.233.233,0,0,1,.362,0l1.676,2.063a.233.233,0,0,1-.181.381Z" transform="translate(-140.913 -758.552)"/>
+      </g>
+    </g>
+  </g>
+</svg>

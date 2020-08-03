@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+  <g id="navbar" transform="translate(-491.913 -50.927)">
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="8" height="8" transform="translate(491.913 50.927)" fill="none"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(492.58 51.816)">
+      <path id="Combined-Shape" d="M495.357,55.816a.444.444,0,0,1,0-.889h5.778a.444.444,0,0,1,0,.889Zm0,2.667a.444.444,0,0,1,0-.889h5.778a.444.444,0,0,1,0,.889Z" transform="translate(-494.913 -54.927)"/>
+      <path id="Shape" d="M495.357,79.816h5.778a.444.444,0,0,0,0-.889h-5.778a.444.444,0,0,0,0,.889Z" transform="translate(-494.913 -73.594)"/>
+    </g>
+  </g>
+</svg>

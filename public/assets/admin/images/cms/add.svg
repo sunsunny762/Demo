@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+  <g id="add" transform="translate(-507 -188)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="8" height="8" transform="translate(507 188)" fill="none"/>
+    <g id="add-2" data-name="add" transform="translate(507.667 188.667)">
+      <rect id="Rectangle_29" data-name="Rectangle 29" width="1.481" height="6.667" rx="0.741" transform="translate(2.593)"/>
+      <rect id="Rectangle_30" data-name="Rectangle 30" width="1.481" height="6.667" rx="0.741" transform="translate(6.667 2.593) rotate(90)"/>
+    </g>
+  </g>
+</svg>

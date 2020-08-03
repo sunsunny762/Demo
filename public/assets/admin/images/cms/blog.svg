@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+  <g id="blog" transform="translate(-137.913 -573.927)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="8" height="8" transform="translate(137.913 573.927)" fill="none"/>
+    <g id="_1330131" data-name=" 1330131" transform="translate(138.58 574.594)">
+      <path id="Path_13" data-name="Path 13" d="M158.991,581.378l-.829-.828-1.543,1.556.829.829Z" transform="translate(-153.129 -579.745)"/>
+      <path id="Path_14" data-name="Path 14" d="M153.225,589.995a.2.2,0,0,0,.256.255l.992-.513-.735-.735Z" transform="translate(-150.477 -586.319)"/>
+      <path id="Path_15" data-name="Path 15" d="M166.105,577.813a.2.2,0,0,0,0-.276h0l-.552-.552a.2.2,0,0,0-.276,0h0l-.472.472.829.828Z" transform="translate(-159.496 -576.927)"/>
+      <path id="Path_16" data-name="Path 16" d="M141.5,587.923h.2v.99a.2.2,0,0,0,.333.138l1.128-1.128h2.276a.586.586,0,0,0,.586-.586V585.4l-.616.616a.581.581,0,0,1-.187.126l-1.118.58a.615.615,0,0,1-.256.059.569.569,0,0,1-.168-.028H142.28a.2.2,0,1,1,0-.391h.989a.586.586,0,0,1,.031-.394l.6-1.17a.529.529,0,0,1,.113-.16l.62-.62H141.5a.587.587,0,0,0-.586.586v2.734A.587.587,0,0,0,141.5,587.923Z" transform="translate(-140.913 -582.442)"/>
+    </g>
+  </g>
+</svg>
